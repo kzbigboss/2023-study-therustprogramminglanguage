@@ -1,10 +1,10 @@
+Source: https://doc.rust-lang.org/book/
+
 # Chapter 1
 
 No highlights/notes. This chapter involved installing Rust and learning a few build/run commands with Cargo.
 
 # Chapter 2: Programming a Guessing Game
-
-Source: https://doc.rust-lang.org/book/ch02-00-guessing-game-tutorial.html
 
 While reading about handling return values...
 
