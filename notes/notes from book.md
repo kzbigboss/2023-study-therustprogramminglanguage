@@ -422,6 +422,24 @@ if let Some(max) = config_max {
 	println!("some other message");
 }
 ```
+# Chapters 7 thru 11
+
+> I noticed I was doing a lot of copy/paste while studying on a screen. I decided to switch over to studying in a physical book instead. There are highlights and notes captured in the physical book.
+
+# Chapter 12 
+
+> Sample application that required screen time.
+
+## Standard output (stdout) vs standard error (stderr)
+
+There are two types of output to the terminal:
+- standard output (stdout): general information
+- standard error (stderr): error messages
+
+Pushing output to two streams allows users to choose to direct successful output (stdout) to a file while still print errors (stderr) to screen.
+
+In rust, we can use `eprintln!()` in place of `println!()` to have errors pushed to stderr.
+
 
 # Unique Terms
 
